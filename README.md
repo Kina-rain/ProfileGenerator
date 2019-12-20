@@ -6,7 +6,7 @@ links to location, profile, and users blog.
 
 ## Screen Shot
 
-*Link: https://github.com/Kina-rain/Portfolio-Kina
+*Link: https://github.com/Kina-rain/ProfileGenerator
 
 ![alt text][screenshot]
 
